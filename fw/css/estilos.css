@@ -1,0 +1,20 @@
+.buscador div { width: 100%;
+	    /*padding: 10px;*/
+	    /*margin-left: 2%;*/	    
+	    float: left;
+	    /*border-radius: 5px;*/
+	    border: 1px solid #999;
+	    margin-bottom: 30px;
+	    box-shadow: 2px 2px 2px #666;
+		position:absolute;
+		background-color: white;		
+		z-index:3;
+		font-size:15px;
+		overflow-y: auto;
+		max-height: 400px;
+
+	}
+.buscador ul { 
+	padding: 10px;
+	list-style: none; 
+}
